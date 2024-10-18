@@ -81,38 +81,19 @@
 
   
 
-{"key":"老鸭","name":"切片 | 理理1","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"香香","name":"切片 | 理理1","type":1,"api":"https://naixxzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"易看","name":"切片 | 理理2","type":1,"api":"https://api.ekanapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"番号随便","name":"切片 | 理理3","type":1,"api":"https://hongtaozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1},
 
-{
-      "key": "熊猫视频",
-      "name": "切片 | 理理3",
-      "type": 3,
-      "api": "csp_XMVideo",
-      "searchable": 1,
-      "filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
-    },
 {"key":"番号","name":"切片 | 理理4","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1,"filterable": 1},
 
 
 
-{"key":"越南资源","name":"切片 | 理理5","type":1,"api":"https://vnzyz.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"越资源","name":"切片 | 理理5","type":1,"api":"https://www.caoliuzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1},
+
+{"key":"越南资源","name":"切片 | 理理6","type":1,"api":"https://jipinzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable": 1},
 
 
-
-
-
-{
-			"key": "hipy_js_UAA[密]",
-			"name": "切片 | 理理6",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/UAA[密].js"
-		},
 
 
 

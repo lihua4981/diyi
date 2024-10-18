@@ -8,39 +8,275 @@
 
 
   "sites": [
-     
+ 
 
- {
-    "key":"农民影视",
-    "name":"公众号:神马盒子工作室【点主页换源】",
-    "type":3,
-    "api":"csp_WexNmys","jar":"https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
-    "searchable":1,
-    "changeable":1
+
+{
+      "key": "糯米",
+      "name": "点首页换源【公众号:神马盒子工作室】",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 10,
+    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884068216/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77"
     },
 
+// {
+  //  "key": "豆豆",
+ //   "name": "豆瓣|排行榜",
+ //   "type": 3,
+ //  "api": "csp_DouDou",
+ //  "searchable": 0,
+ // "quickSearch": 0,
+ //  "filterable": 0
+ // },
 
-
-
- // {
- //    "key": "豆豆",
- //    "name": "豆瓣|排行榜",
-  //   "type": 3,
- //   "api": "csp_DouDou",
-//   "searchable": 0,
- //  "quickSearch": 0,
- //    "filterable": 0
- //  },
  {
       "key": "drpy_js_豆瓣",
       "name": "豆瓣|排行榜",
       "type": 3,
-      "api": "csp_Douban","jar":"https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
+      "api": "csp_Douban","jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
       "searchable": 0
     },
+
+
+
+
+ {
+      "key": "文采",
+      "name": "神马|文采",
+      "type": 3,
+      "api": "csp_Jpys","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+       {
+      "key": "csp_JPYY",
+      "name": "神马┃1080P",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_Jpyy",
+      "playerType": 1,
+      "filterable": 1,
+      "ext": "",
+    "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728955680305/xm1015.jar;md5;d8e00443d23d2701d9a1236608961a7c"
+    },
+    
+     {
+      "key": "君君",
+      "name": "神马|4K高清",
+      "playerType": 1,
+      "type": 3,
+      "api": "csp_AppYsV2","jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.228.85.203:1000/api.php/app/"
+    },
+    
+        {
+      "key": "柠檬",
+      "name": "神马|柠檬",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 1,
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ==",
+    "jar": "http://cdn.qiaoji8.com/fix24108.jar;md5;12f37c8466d7133438b2560d8e1b190e"
+    },
+    
+     
+    {
+        "key":"热播影视",
+        "name":"神马|热播",
+        "type":3,
+        "api":"csp_AppRB","jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1
+        
+    },
+      {
+      "key": "瓜子",
+      "name": "神马|瓜子",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": "1",
+      "api": "http://ttkx.live:55/lib/drpy_libs/drpy2.min.js",
+      "ext": "http://ttkx.live:55/lib/瓜子.js",
+    "jar": "http://ttkx.live:55/lib/ttkx.jar"
+    },
+    
+    {
+    "key":"星芽短剧",
+    "name":"神马|短剧",
+    "type":3,
+    "api":"csp_AppXY","jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+    "searchable":1,
+    "quickSearch":0,
+    "filterable":0
+    
+},
+{
+			"key": "hipy_js_奇珍异兽[官]",
+			"name": "爱奇艺[官]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/奇珍异兽[官].js"
+		},
+{
+			"key": "hipy_js_360影视[官]",
+			"name": "360影视[官]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/360影视[官].js"
+		},
+		{
+			"key": "hipy_js_菜狗[官]",
+			"name": "菜狗[官]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/菜狗[官].js"
+		},
+
+		{
+			"key": "hipy_js_优酷[官]",
+			"name": "优酷[官]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/优酷[官].js"
+		},
+		{
+			"key": "hipy_js_腾云驾雾[官]",
+			"name": "腾讯[官]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/腾云驾雾[官].js"
+		},
+		{
+			"key": "hipy_js_百忙无果[官]",
+			"name": "芒果[官]",
+			"type": 3,
+			"api": "./drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"ext": "./drpy_js/百忙无果[官].js"
+		},
+ {
+      "key": "Auete",
+      "name": "神马|奥特",
+      "type": 3,
+      "api": "csp_Auete",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://auete.pro/"
+    },
+  
+  {"key": "csp_XBPQ_6V",
+  "name": "神马|4K专享",
+  "type": 3,
+  "api": "csp_XBPQ",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext":"https://download.kstore.space/download/4637/lib/6v.json","jar":"https://d.kstore.space/download/4637/jar/spider.jar"},
+
+
+
+
+
+
+
+   {
+            "key": "荐片影院",
+            "name": "神马|荐片",
+            "type": 3,
+            "api": "./js/drpy.min.js","jar":"./jar/fanou.txt",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "./js/jianpian.js"
+        },
+ 
+             
+  {
+      "key": "柠檬",
+      "name": "神马|柠檬",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 2,
+      "ext": "https://api.cnmcom.com/webcloud/relay.php?url=","jar":"http://cdn.qiaoji8.com/fix240620.jar"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    {
+      "key": "萌米",
+      "name": "神马|萌米",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    
+    
+ {"key":"神马自用","name":"神马|影视","type":1,"api":"https://cms1.vipkbt.fun/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+
+
+
+
+
+ {"key":"圆周率","name":"神马|圆周率","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+ 
+
+{"key":"drpy_js_哔哩影视","name":"神马|哔哩","type":3,"api":"./lib/drpy2.min.js","ext":"https://download.kstore.space/download/4637/blyingshi.js"},
+    {"key":"非凡资源","name":"神马|非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4637/ffzy.json","jar":"https://d.kstore.space/download/4637/jar/spider.jar"},
+    {"key":"drpy_js_网易公版影像","name":"神马|网易","type":3,"api":"./lib/drpy2.min.js","ext":"https://download.kstore.space/download/4637/网易公版影像.js"},
+    {"key": "csp_ _Mp4Mov","name":"神马|4K4K","type": 3,"api":"csp_Mp4Mov","searchable":1,"quickSearch": 1,"filterable": 1,"jar":"https://download.kstore.space/download/4637/Hk.jar"},
  {
       "key": "360资源",
-      "name": "神马|360",
+      "name": "神马|360资源",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
@@ -71,150 +307,6 @@
       ],
     "jar": "https://gitee.com/iitvbox/jar/raw/master/%E5%B0%8F%E7%B1%B3/xiaomi.jar"
     },
-
-
-
-
- {
-      "key": "文采",
-      "name": "神马|文采",
-      "type": 3,
-      "api": "csp_Jpys","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
- {
-      "key": "Auete",
-      "name": "神马|奥特",
-      "type": 3,
-      "api": "csp_Auete",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.pro/"
-    },
-  
-  {"key": "csp_XBPQ_6V",
-  "name": "神马|4K专享",
-  "type": 3,
-  "api": "csp_XBPQ",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "ext":"https://download.kstore.space/download/4637/lib/6v.json","jar":"https://d.kstore.space/download/4637/jar/spider.jar"},
-
-{
-      "key": "君君",
-      "name": "神马|4K4K",
-      "playerType": 1,
-      "type": 3,
-      "api": "csp_AppYsV2","jar":"https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://122.228.85.203:1000/api.php/app/"
-    },
-
-
-
-{
-      "key": "csp_Kuaikan",
-      "name": "神马|快看",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/秒播/dongchen.jar"
-    },
- {
-    "key":"苹果",
-    "name":"神马|苹果",
-    "type":3,
-    "api":"csp_LiteApple",
-    "playerType":1,
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "jar": "https://gitee.com/iitvbox/jar/raw/master/天天开心/ttkx.jar"
-    },
-   {
-            "key": "荐片影院",
-            "name": "神马|荐片",
-            "type": 3,
-            "api": "./js/drpy.min.js","jar":"./jar/fanou.txt",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "./js/jianpian.js"
-        },
- 
-             
-  {
-      "key": "柠檬",
-      "name": "神马|柠檬",
-      "type": 3,
-      "api": "csp_Nmvod",
-      "playerType": 2,
-      "ext": "https://api.cnmcom.com/webcloud/relay.php?url=","jar":"http://cdn.qiaoji8.com/fix240620.jar"
-    },
-
-
-
-
-
-
-
-
-
-
-{
-    "key":"星芽短剧",
-    "name":"神马|短剧",
-    "type":3,
-    "api":"csp_AppXY","jar":"https://gitee.com/iitvbox/jar/raw/master/欧歌/ou.jar",
-    "searchable":1,
-    "quickSearch":0,
-    "filterable":0
-    
-},
-
-
-  
-    {
-      "key": "萌米",
-      "name": "神马|萌米",
-      "type": 3,
-      "api": "csp_AppTT",
-      "timeout": 15,
-      "playerType": 1,
-      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
- {"key":"神马自用","name":"神马|影视","type":1,"api":"https://cms1.vipkbt.fun/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
-
-
-
-
-
- {"key":"圆周率","name":"神马|圆周率","api":"csp_AppYsV2","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
- 
- {
-      "key": "csp_真不卡",
-      "name": "神马|不卡",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/4637/buka.json","jar":"https://d.kstore.space/download/4637/jar/spider.jar"
-    },
-{"key":"drpy_js_哔哩影视","name":"神马|哔哩","type":3,"api":"./lib/drpy2.min.js","ext":"https://download.kstore.space/download/4637/blyingshi.js"},
-    {"key":"非凡资源","name":"神马|非凡","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/4637/ffzy.json","jar":"https://d.kstore.space/download/4637/jar/spider.jar"},
-    {"key":"drpy_js_网易公版影像","name":"神马|网易","type":3,"api":"./lib/drpy2.min.js","ext":"https://download.kstore.space/download/4637/网易公版影像.js"},
-    {"key": "csp_ _Mp4Mov","name":"神马|高清","type": 3,"api":"csp_Mp4Mov","searchable":1,"quickSearch": 1,"filterable": 1,"jar":"https://download.kstore.space/download/4637/Hk.jar"},
 
  {
       "key": "csp_xml_ikun",
@@ -321,23 +413,10 @@
 
 
 
- {
-      "key": "云播影视",
-      "name": "神马|云播",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js","jar":"https://like.xn--z7x900a.com/jar/PandaQ240718.jar",
-      "ext": "http://js.xn--z7x900a.com/js/TVB云播.js","jar":"https://like.xn--z7x900a.com/jar/PandaQ240718.jar"
-    },
 
 
 
- {
-      "key": "Dygang",
-      "name": "神马|电影港",
-      "type": 3,
-      "api": "csp_Dygang","jar":"http://cdn.qiaoji8.com/fix240620.jar"
-    },
+
 
 
      {
@@ -351,40 +430,10 @@
       "ext":"https://www.kuin.one/api.php/app/"
     },
   
-{
-			"key": "hipy_js_畅梦影视[优]",
-			"name": "神马|畅梦",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/畅梦影视[优].js"
-		},
-{
-			"key": "hipy_js_大米星球[V2]",
-			"name": "神马|大米",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/大米星球[V2].js"
-		},
 
-	{
-			"key": "hipy_js_南瓜影视[优]",
-			"name": "神马|南瓜",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/南瓜影视[优].js"
-		}, 
+
+
+
 
     
     {
@@ -443,17 +492,7 @@
 //			"ext": "./drpy_js/金鹰资源[资].js"
 	//	},
 
-{
-			"key": "hipy_js_可达影视",
-			"name": "神马|可达",
-			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "./drpy_js/可达影视.js"
-		},
+
 
 {
 			"key": "hipy_js_天龙影院",
@@ -608,21 +647,7 @@
       "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"
     },
 
-    {
-      "key": "虎牙直播js",
-      "name": "虎牙┃直播",
-      "type": 3,
-      "api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js",
-      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "playerType": "1",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
+
     {
       "key": "斗鱼js",
       "name": "斗鱼┃直播",
@@ -798,7 +823,7 @@
       "url": "Web"
     },
     {
-      "name": "4K解析",
+      "name": "神马4K解析",
       "type": 1,
       "url": "http://112.74.124.75:8899/jiexi/api.php?url=",
       "ext": {
@@ -858,7 +883,7 @@
       }
     },
     {
-      "name": "1080解析1",
+      "name": "神马1080解析1",
       "type": 1,
       "url": "https://jxjson.icu/neibu.php?url=",
       "ext": {
@@ -887,7 +912,7 @@
       }
     },
     {
-      "name": "1080解析",
+      "name": "神马1080解析",
       "type": 1,
       "url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=",
       "ext": {

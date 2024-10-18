@@ -75,15 +75,15 @@
       "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
     },
 {
-			"key": "hipy_js_29片库[密]",
-			"name": "切片 | 理理1",
+			"key": "hipy_js_36直播[密]",
+			"name": "切片|直播",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"order_num": 0,
-			"ext": "./drpy_js/29片库[密].js"
+			"ext": "./drpy_js/36直播[密].js"
 		},
 
 

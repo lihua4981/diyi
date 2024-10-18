@@ -1,0 +1,13 @@
+
+{ "storeHouse": [ 
+{ "sourceName": "神马盒子", "sourceUrl": "https://gitee.com/vipkbt/qiepian/raw/master/ganjin.json" }, 
+{ "sourceName": "饭太硬", "sourceUrl": "http://饭太硬.com/tv" }, 
+{ "sourceName": "潇洒", "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json" },
+{ "sourceName": "莱斯", "sourceUrl": "https://tv.xn--yhqu5zs87a.top" }, 
+{ "sourceName": "刘备", "sourceUrl": "https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json" }, 
+{ "sourceName":"荷塘","sourceUrl":"http://rihou.cc:88/荷城茶秀"},
+{ "sourceName":"南风","sourceUrl":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"},
+{ "sourceName":"月光","sourceUrl":"https://gitlab.com/guot55/bh/-/raw/main/pg/bh.json"},
+{ "sourceName":"雷锋","sourceUrl":"https://agit.ai/ddx/TVBox/raw/branch/master/t4.json"},
+{ "sourceName":"肥猫","sourceUrl":"http://肥猫.live"}
+] }

@@ -84,16 +84,7 @@
     },
     
      
-    {
-        "key":"热播影视",
-        "name":"神马|热播",
-        "type":3,
-        "api":"csp_AppRB","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728955680305/xm1015.jar;md5;d8e00443d23d2701d9a1236608961a7c",
-        "searchable":1,
-        "quickSearch":1,
-        "filterable":1
-        
-    },
+ 
       {
       "key": "瓜子",
       "name": "神马|瓜子",
@@ -111,7 +102,7 @@
     "key":"星芽短剧",
     "name":"神马|短剧",
     "type":3,
-    "api":"csp_AppXY","jar":"https://tv.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+    "api":"csp_AppXY","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728955680305/xm1015.jar;md5;d8e00443d23d2701d9a1236608961a7c",
     "searchable":1,
     "quickSearch":0,
     "filterable":0

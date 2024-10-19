@@ -1,7 +1,7 @@
 公告,#genre#
 软件免费,https://cfss.cc/api/kg/FEFD599DF8886873B5708562CFFF4D43.mp4
 微信公众号,https://cfss.cc/api/kg/881FAE86595A12CCE6D05667F97EB8D8.mp4
-神马盒子工作室：206604007,https://cfss.cc/api/kg/6224E256FA4255F675D28659F1B781E8.mp4
+神马盒子工作室,https://cfss.cc/api/kg/6224E256FA4255F675D28659F1B781E8.mp4
 
 CCTV频道,#genre#
 CCTV1,http://beijinglive.online.domybox.com:91/live/CCTV1hd-8M/live.m3u8$xinghe

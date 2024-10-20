@@ -22,17 +22,26 @@
       "timeout": 10,
     "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884068216/okjpg.txt;md5;d36e98d7118c3c9a46b1a6501e9fec77"
     },
+// 饭太硬-----------------------
 
+ //  {
+ //  "key": "豆豆",
+ //  "name": "豆瓣|排行榜",
+//   "type": 3,
+//  "api": "csp_DouDou",
+//   "searchable": 0,
+//  "quickSearch": 0,
+ //   "filterable": 0
+//   },
+
+//肥猫豆瓣---------------------------------------
  {
-  "key": "豆豆",
+  "key": "drpy_js_豆瓣",
   "name": "豆瓣|排行榜",
-   "type": 3,
-  "api": "csp_DouDou",
-  "searchable": 0,
-"quickSearch": 0,
-  "filterable": 0
- },
-
+  "type": 3,
+  "api": "csp_Douban","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+  "searchable": 0
+},
 
 
 
@@ -101,7 +110,7 @@
 
 {
 			"key": "hipy_js_奇珍异兽[官]",
-			"name": "爱奇艺[官]",
+			"name": "奇珍异兽[官]",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -146,7 +155,7 @@
 		},
 		{
 			"key": "hipy_js_腾云驾雾[官]",
-			"name": "腾讯[官]",
+			"name": "腾云驾雾[官]",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -157,7 +166,7 @@
 		},
 		{
 			"key": "hipy_js_百忙无果[官]",
-			"name": "芒果[官]",
+			"name": "百忙无果[官]",
 			"type": 3,
 			"api": "./drpy_libs/drpy2.min.js",
 			"searchable": 1,
@@ -212,18 +221,78 @@
       "playerType": 2,
       "ext": "https://api.cnmcom.com/webcloud/relay.php?url=","jar":"http://cdn.qiaoji8.com/fix240620.jar"
     },
+//--肥猫开始--------------------------------------------------------------------------------------------------------------
+    {
+      "key": "Ivdy",
+      "name": "💖┃Ivdy┃影视",
+      "type": 3,
+      "api": "csp_XBPQ","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+      "ext": "http://js.xn--z7x900a.com/json/ivdy.json",
+      "searchable": 0
+    },
+    {
+      "key": "csp_Kanke",
+      "name": " 👀┃看客┃影视",
+      "type": 3,
+      "api": "csp_Kanke","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+      "playerType": 2,
+      "ext": "https://www.kmeiju.com"
+    },
+    {
+      "key": "csp_SaoHuo",
+      "name": "🔥┃火火┃影视",
+      "type": 3,
+      "api": "csp_SaoHuo","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+      "playerType": 2
+    },
 
+    {
+      "key": "csp_LiteApple",
+      "name": "🍎┃苹果┃影视",
+      "type": 3,
+      "api": "csp_LiteApple","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "比特",
+      "name": "✌️️┃比特┃影视",
+      "type": 3,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+      "api": "csp_Bttwo"
+    },
+    {
+      "key": "厂长",
+      "name": "🏭┃厂长┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Czsapp","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://czzy.top/"
+    },
+    {
+      "key": "csp_AppRZ",
+      "name": " 🕵┃忍者┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_AppRZ","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+      "ext": "http://rzys.xyz/"
+    },
+    {
+      "key": "可可",
+      "name": " 😝┃可可┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Keke","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729326650680/PandaQ241019.txt;md5;3a57e2b57f8d66db134450c493f99b97",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kkys02.com"
+    },
 
-
-
-
-
-
-
-
-
-
-
+//-------------------------------------------------------------------------------------------------------------------------
   
     {
       "key": "萌米",
@@ -988,7 +1057,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitee.com/vipkbt/qiepian/raw/master/tv.txt",
+      "url": "https://raw.gitcode.com/qq_40873126/diyi/raw/master/lives/kukan.txt",
       "playerType": 1
      
    
